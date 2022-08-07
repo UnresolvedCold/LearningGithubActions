@@ -16,9 +16,4 @@ class DemoApplicationTests {
 		Assert.isTrue(true, "Good");
 	}
 
-	@Test
-	void demoTest_bad() {
-		Assert.isTrue(false, "Good");
-	}
-
 }
